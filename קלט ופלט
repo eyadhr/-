@@ -1,0 +1,42 @@
+מטלה01 קלט ופלט:
+שאלה1:
+  
+#include <stdio.h>
+#include <math.h>
+int main ()
+{
+	printf ("\tMultiplication table\n");
+	printf("\t--------------------\n");
+	
+	printf("1\t2\t3\t4\t5\n");
+	printf("2\t4\t6\t8\t10\n");
+	printf("3\t6\t9\t12\t15\n");
+	printf("4\t8\t12\t16\t20\n");
+	printf("5\t10\t15\t20\t25\n");
+}
+
+שאלה2:
+#include <stdio.h>
+int main()
+{
+int age=19;
+float height=1.83;
+printf("my age is %d\n",age);
+printf("my height is %0.2f meters",height);
+}
+
+שאלה3:
+#include <stdio.h>
+int main()
+{
+   int Age, Height;
+   printf("Age = 19, %d\tHeight =1.83m %d\n",Age, Height);
+   printf("enter Age and height :19 , 1.83m ");
+   scanf("%d %d", &Age, &Height);
+   printf("Age =%d\tHeight = %d",Age, Height);
+}
+
+GYAZO LINK:
+שאלה1: https://gyazo.com/6f7656552b424dd93e708bdff3f92d90
+שאלה2: https://gyazo.com/961c2affab498b07d126a3f1e0586ed9
+שאלה3: https://gyazo.com/88e0257c8907f736fe8d700e7e2999d5
