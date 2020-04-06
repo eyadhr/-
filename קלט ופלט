@@ -35,7 +35,7 @@ int main()
    scanf("%d %d", &Age, &Height);
    printf("Age =%d\tHeight = %d",Age, Height);
 }
-
+https://github.com/rayahazi/JavaScript-B-2020/blob/master/02-Lesson/HomeWork.PNG
 GYAZO LINK:
 שאלה1: https://gyazo.com/6f7656552b424dd93e708bdff3f92d90
 שאלה2: https://gyazo.com/961c2affab498b07d126a3f1e0586ed9
